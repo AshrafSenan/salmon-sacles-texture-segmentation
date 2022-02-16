@@ -1,7 +1,7 @@
 # Reading Salmon Fish History from Scale Images Using Deep Transfer Learning
-
-This system is built By Ashraf Sinan, under supervision of Prof. Kasim Terzic. University of St Andrews under Erasmus Munuds Advanced System Dependability
-This project was implemented in partnership with Marine Science Sctoland
+## This project is a part of EMJMD in DEPEND at the University of St Andrews
+## This system is built By Ashraf Sinan, under supervision of Prof. Kasim Terzic.
+## This project was implemented in partnership with Marine Science Sctoland (MSS)
 
 The system use python3, Tensorflow, OpenCV, PIL, NUMPY, pandas, and matplot lib
 
